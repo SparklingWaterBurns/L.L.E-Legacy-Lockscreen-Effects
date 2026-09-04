@@ -2,7 +2,7 @@
     <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="android:windowFullscreen">true</item>
         <item name="android:windowNoTitle">true</item>
-        <item name="android:colorAccent">@color/colorAccent</item>
+        <item name="android:colorAccent">@color/colorAccentLightMode</item>
         <item name="android:navigationBarColor">@android:color/transparent</item>
         <item name="android:textColor">@color/textLightMode</item>
         <item name="android:windowLightStatusBar">false</item>
