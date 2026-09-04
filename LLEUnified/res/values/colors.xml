@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorAccentLightMode">#74d7ff</color>
-    <color name="colorAccentDarkMode">#316073</color>
     <color name="textLightMode">#000000</color>
-    <color name="textDarkMode">#FFFFFF</color>
 </resources>
